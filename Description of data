@@ -1,0 +1,8 @@
+The same code can be used to implement for a much larger dataset which can be acquired from
+https://raw.githubusercontent.com/sidooms/MovieTweetings/master/latest/ratings.dat
+
+The ouput formatting can be done according to your needs. The way that I formatted my output is:
+(M1,M2) [(U5,3,3),(U2,3,1)]
+.....
+
+The timestamp in the data is ignored.
